@@ -3,4 +3,4 @@
 Zemberek NLP Kütüpanesi için Örnek SOAP Web Servisi
 
 Katkı Sağlayanlar
-- NLPDeveloperTR
+-Eren Sefa Öztürk 220903040
