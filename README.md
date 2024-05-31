@@ -4,4 +4,4 @@ Zemberek NLP Kütüpanesi için Örnek SOAP Web Servisi
 
 Katkı Sağlayanlar
 - NLPDeveloperTR
-- maltepe2024
+- maltepe2025
