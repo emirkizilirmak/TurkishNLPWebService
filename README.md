@@ -4,4 +4,4 @@ Zemberek NLP Kütüpanesi için Örnek SOAP Web Servisi
 
 Katkı Sağlayanlar
 - NLPDeveloperTR
-- Talat Pasha
+- Taha Kılıç
